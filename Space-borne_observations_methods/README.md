@@ -1,6 +1,3 @@
 # Day 5 - Space-borne observations
-Repository for the MSc Special Course in Space Physics "High-energy particles in the heliosphere" held within the SPEARHEAD project at the University of Turku in May 2025
-
-## Usage
-
-You can run the Jupyter Notebooks either on the project's JupyterHub server or locally on your computer. If you are new to Jupyter Notebooks, the official documentation will give you more info about [What is the Jupyter Notebook?](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html) and [Running Code](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Running%20Code.html) with it.
+- [Particle_Telescope_Example.ipynb](https://github.com/jgieseler/MSc-course-2025-spearhead/blob/main/Space-borne_observations_methods/Particle_Telescope_Example.ipynb) within this folder
+- [bowtie_example.ipynb](https://github.com/spearhead-he/bowtie) from https://github.com/spearhead-he/bowtie (see instructions there!) or [directly on SPEARHEAD's JupyterHub](https://jupyterhub.spearhead-he.eu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fspearhead-he%2Fbowtie&urlpath=lab%2Ftree%2Fbowtie%2Fbowtie_example.ipynb&branch=main)
